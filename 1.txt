@@ -1,1 +1,3 @@
 hii iam shaik zaheer
+class register:
+def register()
